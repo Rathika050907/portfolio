@@ -18,7 +18,7 @@ I'm Rathika R — an enthusiastic and driven Software Developer with a passion f
 
 ## 🚀 Live Demo
 
-🔗 [Visit My Portfolio](https://rathika050907.github.io/)  
+🔗 [Visit My Portfolio](https://rathika050907.github.io/portfolio/)  
 📬 [Connect on LinkedIn](https://linkedin.com/in/rathika-r-05412b256)  
 💻 [GitHub Profile](https://github.com/Rathika050907)
 
